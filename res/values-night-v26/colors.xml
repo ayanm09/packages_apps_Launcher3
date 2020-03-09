@@ -18,7 +18,7 @@
 */
 -->
 <resources>
-    <color name="aosip_color2">@*android:color/primary_dark_device_default_settings</color>
-    <color name="aosip_color1">@*android:color/primary_device_default_settings</color>
-    <color name="all_apps_bg_search">@color/aosip_color1</color>
+    <color name="ancient_color2">@*android:color/primary_dark_device_default_settings</color>
+    <color name="ancient_color1">@*android:color/primary_device_default_settings</color>
+    <color name="all_apps_bg_search">@color/ancient_color1</color>
 </resources>

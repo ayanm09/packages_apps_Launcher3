@@ -25,8 +25,8 @@
 
     <style name="WidgetContainerTheme.Dark" parent="AppTheme.Dark">
         <item name="android:colorEdgeEffect">?android:attr/textColorSecondary</item>
-        <item name="android:colorPrimary">@color/aosip_color1</item>
-        <item name="android:colorPrimaryDark">@color/aosip_color2</item>
+        <item name="android:colorPrimary">@color/ancient_color1</item>
+        <item name="android:colorPrimaryDark">@color/ancient_color2</item>
     </style>
 
     <style name="LauncherTheme.Dark" parent="@style/LauncherTheme">
@@ -35,17 +35,17 @@
         <item name="android:textColorTertiary">#CCFFFFFF</item>
         <item name="android:textColorHint">#A0FFFFFF</item>
         <item name="android:colorControlHighlight">#A0FFFFFF</item>
-        <item name="android:colorPrimary">@color/aosip_color1</item>
-        <item name="android:colorPrimaryDark">@color/aosip_color2</item>
-        <item name="allAppsScrimColor">@color/aosip_color2</item>
+        <item name="android:colorPrimary">@color/ancient_color1</item>
+        <item name="android:colorPrimaryDark">@color/ancient_color2</item>
+        <item name="allAppsScrimColor">@color/ancient_color2</item>
         <item name="allAppsInterimScrimAlpha">102</item>
         <item name="allAppsNavBarScrimColor">#80000000</item>
-        <item name="popupColorPrimary">@color/aosip_color2</item>
-        <item name="popupColorSecondary">@color/aosip_color1</item> 
-        <item name="popupColorTertiary">@color/aosip_color1</item> <!-- Gray 600 -->
+        <item name="popupColorPrimary">@color/ancient_color2</item>
+        <item name="popupColorSecondary">@color/ancient_color1</item> 
+        <item name="popupColorTertiary">@color/ancient_color1</item> <!-- Gray 600 -->
         <item name="widgetsTheme">@style/WidgetContainerTheme.Dark</item>
         <item name="folderDotColor">#FF464646</item>
-        <item name="folderFillColor">@color/aosip_color2</item> <!-- 87% GM2 800 -->
+        <item name="folderFillColor">@color/ancient_color2</item> <!-- 87% GM2 800 -->
         <item name="folderIconBorderColor">#FF80868B</item>
         <item name="folderTextColor">@android:color/white</item>
         <item name="isMainColorDark">true</item>
@@ -53,7 +53,7 @@
     </style>
 
     <style name="LauncherTheme.Dark.DarkMainColor" parent="@style/LauncherTheme.Dark">
-        <item name="folderFillColor">@color/aosip_color2</item> <!-- 100% GM2 800 -->
+        <item name="folderFillColor">@color/ancient_color2</item> <!-- 100% GM2 800 -->
         <item name="folderTextColor">@android:color/white</item>
     </style>
 </resources>
